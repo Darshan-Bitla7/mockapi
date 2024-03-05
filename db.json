@@ -1,33 +1,36 @@
 {
-  "footballers": [
+  "Models": [
     {
       "id": 1,
-      "name": "Lionel Messi",
-      "photo": "lionel_messi.jpg",
+      "name": "GPT-4",
+      "photo": "gpt4.jpg",
       "details": {
-        "country": "Argentina",
-        "club": "Paris Saint-Germain",
-        "age": 34
+        "description": "It’s the next generation of ChatGPT and is renowned for its capability to produce high-quality text in response to various prompts and questions, making it a valuable conversational AI. It is also capable of translating languages, writing different kinds of creative content, and answering your questions in an informative way.",
+        "provider": "OpenAI",
+        "use-cases": "Chatbots, Language Translation, Content Generation, Q&A, and more",
+        "code-snippet": "Boom, baam"
       }
     },
     {
       "id": 2,
-      "name": "Cristiano Ronaldo",
-      "photo": "cristiano_ronaldo.jpg",
+      "name": "Google Gemini",
+      "photo": "gemini.jpg",
       "details": {
-        "country": "Portugal",
-        "club": "Manchester United",
-        "age": 37
+        "description": "Google Bard can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
+        "provider": "Google",
+        "use-cases": "2x better n9hgga",
+        "code-snippet": "Boom, baam"
       }
     },
     {
       "id": 3,
-      "name": "Neymar Jr",
-      "photo": "neymar_jr.jpg",
+      "name": "DALL-E 2",
+      "photo": "dalle.jpg",
       "details": {
-        "country": "Brazil",
-        "club": "Paris Saint-Germain",
-        "age": 30
+        "description": "DALL-E 2 generates better and more photorealistic images when compared to DALL-E. DALL-E 2 appropriately goes by user requests. DALL-E 2 has received more instruction on how to reject improper inputs to prevent inappropriate outputs.",
+        "provider": "OpenAI",
+        "use-cases": "5x better n9hgga",
+        "code-snippet": "Boom, baam"
       }
     }
   ]
