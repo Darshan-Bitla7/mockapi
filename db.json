@@ -32,6 +32,28 @@
         "use-cases": "5x better n9hgga",
         "code-snippet": "Boom, baam"
       }
+    },
+    {
+      "id": 4,
+      "name": "Midjourney",
+      "photo": "midjourney.jpg",
+      "details": {
+        "description": "Midjourney is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
+        "provider": "OpenAI",
+        "use-cases": "5x better",
+        "code-snippet": "Boom, baam"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Stable Diffusion",
+      "photo": "stable.jpg",
+      "details": {
+        "description": "Stable Diffusion is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
+        "provider": "CogniAble",
+        "use-cases": "5x better",
+        "code-snippet": "Boom, baam"
+      }
     }
   ]
 }
