@@ -2,112 +2,142 @@
   "Models": [
     {
       "id": 1,
-      "name": "GPT-4",
-      "photo": "gpt4.jpg",
+      "name": "ChatGPT",
+      "photo": "https://static.vecteezy.com/system/resources/previews/021/608/790/original/chatgpt-logo-chat-gpt-icon-on-black-background-free-vector.jpg",
       "details": {
-        "description": "It’s the next generation of ChatGPT and is renowned for its capability to produce high-quality text in response to various prompts and questions, making it a valuable conversational AI. It is also capable of translating languages, writing different kinds of creative content, and answering your questions in an informative way.",
+        "description": "ChatGPT is an artificial intelligence language model developed by OpenAI. Based on the GPT (Generative Pre-trained Transformer) architecture, ChatGPT is designed to understand and generate human-like text based on the input it receives. It has been trained on vast amounts of text data from the internet, allowing it to understand and generate responses across a wide range of topics and conversational contexts.",
         "provider": "OpenAI",
-        "use-cases": "Chatbots, Language Translation, Content Generation, Q&A, and more",
-        "code-snippet": "Boom, baam"
+        "use-cases": "Chatbots, Language Translation, Content Generation, Q&A",
+        "pros": "Natural Language Understanding, Availability, Versatility",
+        "cons": "Lack of Emotional Intelligence, Potential for Bias, Security and Privacy Concerns",
+        "popular": "true",
+        "favorite": "false"
       }
     },
     {
       "id": 2,
-      "name": "Google Gemini",
-      "photo": "gemini.jpg",
+      "name": "character.ai",
+      "photo": "https://helios-i.mashable.com/imagery/articles/02xSxDwBGS7prKyJD3ciDu7/hero-image.fill.size_1200x900.v1684761461.png",
       "details": {
-        "description": "Google Bard can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "Google",
-        "use-cases": "2x better n9hgga",
-        "code-snippet": "Boom, baam"
+        "description": "Character.ai is an advanced AI platform designed to create, customize, and deploy virtual characters or avatars for various applications. Leveraging cutting-edge natural language processing (NLP) and machine learning (ML) technologies, Character.ai enables developers and businesses to integrate lifelike virtual characters into their products and services.",
+        "provider": "Character Technologies",
+        "use-cases": "Customer Service, Entertainment, Marketing and Sales",
+        "pros": "Personalization, Consistency, Cost-Effective",
+        "cons": "Lack of Empathy, Limited Context Understanding, Initial Development Complexity",
+        "popular": "true",
+        "favorite": "false"
       }
     },
     {
       "id": 3,
-      "name": "DALL-E 2",
-      "photo": "dalle.jpg",
+      "name": "QuillBot",
+      "photo": "https://www.01net.com/en/app/uploads/2023/11/How-to-Unblock-Quillbot.jpg",
       "details": {
-        "description": "DALL-E 2 generates better and more photorealistic images when compared to DALL-E. DALL-E 2 appropriately goes by user requests. DALL-E 2 has received more instruction on how to reject improper inputs to prevent inappropriate outputs.",
-        "provider": "OpenAI",
-        "use-cases": "5x better n9hgga",
-        "code-snippet": "Boom, baam"
+        "description": "QuillBot is an AI-powered paraphrasing tool designed to help users rewrite sentences, paragraphs, or articles while retaining the original meaning. It employs machine learning algorithms to understand and rephrase text effectively.",
+        "provider": "QuillBot Inc",
+        "use-cases": "Academic Writing, Content Creation, Language Learning",
+        "pros": "Time-Saving, Language Assistance, Plagiarism Prevention",
+        "cons": "Accuracy Concerns, Dependency Risk, Limited Context Understanding",
+        "popular": "true",
+        "favorite": "false"
       }
     },
     {
       "id": 4,
       "name": "Midjourney",
-      "photo": "midjourney.jpg",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Midjourney_Emblem.png",
       "details": {
-        "description": "Midjourney is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "OpenAI",
-        "use-cases": "5x better",
-        "code-snippet": "Boom, baam"
+        "description": "Midjourney is a cutting-edge artificial intelligence tool that transforms textual descriptions into captivating images.  Imagine describing a scene from your dream, a fantastical creature, or a historical event in vivid detail, and then seeing Midjourney bring your words to life as a stunning visual creation.  Similar to other AI art generators like DALL-E and Stable Diffusion, Midjourney utilizes complex algorithms to bridge the gap between language and imagery.",
+        "provider": "Midjourney, Inc.",
+        "use-cases": "Concept Art, Artistic Exploration, Design Inspiration",
+        "pros": "Powerful Image Generation, Variety of Styles, Easy to Use",
+        "cons": "Limited Access, Learning Curve, Control Limitations",
+        "popular": "false",
+        "favorite": "false"
       }
     },
     {
       "id": 5,
-      "name": "Stable Diffusion",
-      "photo": "stable.jpg",
+      "name": "Hugging Face",
+      "photo": "https://static.vecteezy.com/system/resources/previews/020/612/422/original/hugging-face-icon-design-free-vector.jpg",
       "details": {
-        "description": "Stable Diffusion is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "CogniAble",
-        "use-cases": "5x better",
-        "code-snippet": "Boom, baam"
+        "description": "Hugging Face is a company with a mission: to make artificial intelligence, particularly machine learning (ML), accessible and beneficial for everyone. They achieve this by providing a platform for open-source resources related to machine learning. Hugging Face functions as a hub for the AI community, offering a treasure trove of open-source models, datasets, and tools for developers and enthusiasts.",
+        "provider": "Hugging Face, Inc.",
+        "use-cases": "Machine Learning Development, Experimentation and Learning, Collaboration and Sharing",
+        "pros": "Open-Source Focus, Vast Community, Simplified Access",
+        "cons": "Limited Support, Maintaining Code, Learning Curve",
+        "popular": "false",
+        "favorite": "false"
       }
     },
-     {
+    {
       "id": 6,
-      "name": "GPT-4",
-      "photo": "gpt4.jpg",
+      "name": "Google Gemini",
+      "photo": "https://bulksignature.com/wp-content/uploads/2024/02/Frame-876-1024x569.png",
       "details": {
-        "description": "It’s the next generation of ChatGPT and is renowned for its capability to produce high-quality text in response to various prompts and questions, making it a valuable conversational AI. It is also capable of translating languages, writing different kinds of creative content, and answering your questions in an informative way.",
-        "provider": "OpenAI",
-        "use-cases": "Chatbots, Language Translation, Content Generation, Q&A, and more",
-        "code-snippet": "Boom, baam"
+        "description": "Google Bard is a natural language generation (NLG) model developed by Google. It belongs to the family of AI language models and is designed to generate human-like text based on input prompts. It is an advanced version of Google's previous language models, equipped with enhanced capabilities for generating coherent and contextually relevant text across various domains.",
+        "provider": "Google AI",
+        "use-cases": "Information Retrieval, Language Translation, Question Answering",
+        "pros": "Vast Knowledge, Multilingual Fluency, Constant Learning",
+        "cons": "Potential for Bias, Limited Real-World Interaction, Under Development",
+        "popular": "false",
+        "favorite": "false"
       }
     },
     {
       "id": 7,
-      "name": "Google Gemini",
-      "photo": "gemini.jpg",
+      "name": "NovelAI",
+      "photo": "https://seeklogo.com/images/N/novelai-logo-24FE8E359B-seeklogo.com.png",
       "details": {
-        "description": "Google Bard can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "Google",
-        "use-cases": "2x better n9hgga",
-        "code-snippet": "Boom, baam"
+        "description": "NovelAI is an advanced artificial intelligence platform designed to assist writers in generating and enhancing their creative works. Leveraging state-of-the-art natural language processing (NLP) techniques, it provides users with tools and resources to spark inspiration, refine plots, develop characters, and improve overall writing quality.",
+        "provider": "Latitude",
+        "use-cases": "Storytelling, World Building, Creative Writing Assistant",
+        "pros": "Advanced Text Generation, Customization, Large Language Model",
+        "cons": "Subscription Model, Learning Curve, Potential Bias",
+        "popular": "false",
+        "favorite": "false"
       }
     },
     {
       "id": 8,
-      "name": "DALL-E 2",
-      "photo": "dalle.jpg",
+      "name": "CapCUT",
+      "photo": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxtHdRB6xk71KqOPxE23.XPgA8gycVeCm6rxpETgaOBZa6P7qSLyzpTwRZ4IJh7wdFc9r7e3SYxbXSYhnsDjKqBE-&format=source&h=464",
       "details": {
-        "description": "DALL-E 2 generates better and more photorealistic images when compared to DALL-E. DALL-E 2 appropriately goes by user requests. DALL-E 2 has received more instruction on how to reject improper inputs to prevent inappropriate outputs.",
-        "provider": "OpenAI",
-        "use-cases": "5x better n9hgga",
-        "code-snippet": "Boom, baam"
+        "description": "CapCUT is a free and user-friendly video editing app for mobile devices (iOS and Android) developed by ByteDance, the same company behind TikTok.  It allows you to create engaging and polished videos with a variety of editing tools and effects.",
+        "provider": "ByteDance Ltd.",
+        "use-cases": "Social Media Videos, Educational & Explainer Videos, Short Films & Vlogs",
+        "pros": "Rich Editing Tools, Trendy Effects & Filters, Easy to Use",
+        "cons": "Watermark on Free Exports, Limited for Complex Projects, Performance Limitations",
+        "popular": "false",
+        "favorite": "false"
       }
     },
     {
       "id": 9,
-      "name": "Midjourney",
-      "photo": "midjourney.jpg",
+      "name": "Janitor AI",
+      "photo": "https://play-lh.googleusercontent.com/7HwlvkdntMoG2ef8qWgLq6U1d5evinRYS84PHOuckw5pAElrYzC1Zo4jjJSL6oskGPc",
       "details": {
-        "description": "Midjourney is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "OpenAI",
-        "use-cases": "5x better",
-        "code-snippet": "Boom, baam"
+        "description": "Janitor AI isn't your typical janitor; it's a sophisticated AI solution designed to tackle the messy world of data management. Here's a breakdown of its key features. Janitor AI is a revolutionary service that blends conversational AI with data cleaning and management functionalities. Think of it as a digital assistant that meticulously organizes and prepares your data for analysis, much like a janitor keeps a building spotless.",
+        "provider": "Rayobyte",
+        "use-cases": "Data Cleaning and Preprocessing, Data Classification, Conversational Data Management",
+        "pros": "Effortless Data Cleaning, Improved Data Quality, Enhanced Efficiency",
+        "cons": "Limited Functionality, Privacy Concerns, Black Box Functionality",
+        "popular": "false",
+        "favorite": "false"
       }
     },
     {
       "id": 10,
-      "name": "Stable Diffusion",
-      "photo": "stable.jpg",
+      "name": "CivitAI",
+      "photo": "https://pbs.twimg.com/profile_images/1712536424623517697/zRJsxKVF_400x400.jpg",
       "details": {
-        "description": "Stable Diffusion is a conversational AI that can chat with people and hold interactive conversations. It uses advanced AI technologies like LaMDA, PaLM, Imagen, and MusicLM. These technologies are used to invent new ways of engaging with different types of information, like text, images, videos, and audio.",
-        "provider": "CogniAble",
-        "use-cases": "5x better",
-        "code-snippet": "Boom, baam"
+        "description": "Civit AI is an open-source platform dedicated to sharing and exploring AI-generated art models, specifically focused on Stable Diffusion. It functions as a hub for creators to access, contribute, and experiment with various models that produce unique artistic styles and effects",
+        "provider": "Open Sourced",
+        "use-cases": "Discover Diverse Art Styles, Contribute to the Community, Unleash Your Inner Artist",
+        "pros": "Free and Open-Source, Vibrant Community, Model Exploration",
+        "cons": "Technical Knowledge Needed, Limited User Interface, Potential for Unethical Use",
+        "popular": "false",
+        "favorite": "false"
       }
     }
   ]
