@@ -11,7 +11,8 @@
         "pros": "Natural Language Understanding, Availability, Versatility",
         "cons": "Lack of Emotional Intelligence, Potential for Bias, Security and Privacy Concerns",
         "popular": "true",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://chat.openai.com/"
       }
     },
     {
@@ -25,7 +26,8 @@
         "pros": "Personalization, Consistency, Cost-Effective",
         "cons": "Lack of Empathy, Limited Context Understanding, Initial Development Complexity",
         "popular": "true",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://www.character.ai/"
       }
     },
     {
@@ -39,7 +41,8 @@
         "pros": "Time-Saving, Language Assistance, Plagiarism Prevention",
         "cons": "Accuracy Concerns, Dependency Risk, Limited Context Understanding",
         "popular": "true",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://www.quillbot.com/"
       }
     },
     {
@@ -53,7 +56,8 @@
         "pros": "Powerful Image Generation, Variety of Styles, Easy to Use",
         "cons": "Limited Access, Learning Curve, Control Limitations",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://midjourney.com/"
       }
     },
     {
@@ -67,7 +71,8 @@
         "pros": "Open-Source Focus, Vast Community, Simplified Access",
         "cons": "Limited Support, Maintaining Code, Learning Curve",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://huggingface.co/"
       }
     },
     {
@@ -81,7 +86,8 @@
         "pros": "Vast Knowledge, Multilingual Fluency, Constant Learning",
         "cons": "Potential for Bias, Limited Real-World Interaction, Under Development",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://gemini.google.com/app"
       }
     },
     {
@@ -95,7 +101,8 @@
         "pros": "Advanced Text Generation, Customization, Large Language Model",
         "cons": "Subscription Model, Learning Curve, Potential Bias",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://novelai.net/"
       }
     },
     {
@@ -109,7 +116,8 @@
         "pros": "Rich Editing Tools, Trendy Effects & Filters, Easy to Use",
         "cons": "Watermark on Free Exports, Limited for Complex Projects, Performance Limitations",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://capcut.en.softonic.com/"
       }
     },
     {
@@ -123,7 +131,8 @@
         "pros": "Effortless Data Cleaning, Improved Data Quality, Enhanced Efficiency",
         "cons": "Limited Functionality, Privacy Concerns, Black Box Functionality",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://janitorai.com/"
       }
     },
     {
@@ -137,7 +146,8 @@
         "pros": "Free and Open-Source, Vibrant Community, Model Exploration",
         "cons": "Technical Knowledge Needed, Limited User Interface, Potential for Unethical Use",
         "popular": "false",
-        "favorite": "false"
+        "favorite": "false",
+        "link": "https://civitai.com/"
       }
     }
   ]
