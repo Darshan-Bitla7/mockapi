@@ -12,7 +12,7 @@
         "cons": "Lack of Emotional Intelligence, Potential for Bias, Security and Privacy Concerns",
         "popular": "true",
         "favorite": "false",
-        "link": "https://chat.openai.com/",
+        "link": "https://chat.openai.com/"
       }
     },
     {
@@ -27,7 +27,7 @@
         "cons": "Lack of Empathy, Limited Context Understanding, Initial Development Complexity",
         "popular": "true",
         "favorite": "false",
-        "link": "https://www.character.ai/",    
+        "link": "https://www.character.ai/"
       }
     },
     {
@@ -42,7 +42,7 @@
         "cons": "Accuracy Concerns, Dependency Risk, Limited Context Understanding",
         "popular": "true",
         "favorite": "false",
-        "link": "https://www.quillbot.com/",     
+        "link": "https://www.quillbot.com/"
       }
     },
     {
@@ -57,7 +57,7 @@
         "cons": "Limited Access, Learning Curve, Control Limitations",
         "popular": "false",
         "favorite": "false",
-        "link": "https://midjourney.com/",
+        "link": "https://midjourney.com/"
       }
     },
     {
@@ -72,7 +72,7 @@
         "cons": "Limited Support, Maintaining Code, Learning Curve",
         "popular": "false",
         "favorite": "false",
-        "link": "https://huggingface.co/",
+        "link": "https://huggingface.co/"
       }
     },
     {
@@ -87,7 +87,7 @@
         "cons": "Potential for Bias, Limited Real-World Interaction, Under Development",
         "popular": "false",
         "favorite": "false",
-        "link": "https://gemini.google.com/app",
+        "link": "https://gemini.google.com/app"
       }
     },
     {
@@ -102,7 +102,7 @@
         "cons": "Subscription Model, Learning Curve, Potential Bias",
         "popular": "false",
         "favorite": "false",
-        "link": "https://novelai.net/",
+        "link": "https://novelai.net/"
       }
     },
     {
@@ -117,7 +117,7 @@
         "cons": "Watermark on Free Exports, Limited for Complex Projects, Performance Limitations",
         "popular": "false",
         "favorite": "false",
-        "link": "https://capcut.en.softonic.com/",
+        "link": "https://capcut.en.softonic.com/"
       }
     },
     {
@@ -132,7 +132,7 @@
         "cons": "Limited Functionality, Privacy Concerns, Black Box Functionality",
         "popular": "false",
         "favorite": "false",
-        "link": "https://janitorai.com/",
+        "link": "https://janitorai.com/"
       }
     },
     {
@@ -147,7 +147,7 @@
         "cons": "Technical Knowledge Needed, Limited User Interface, Potential for Unethical Use",
         "popular": "false",
         "favorite": "false",
-        "link": "https://civitai.com/",
+        "link": "https://civitai.com/"
       }
     }
   ]
