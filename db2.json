@@ -1,4 +1,5 @@
- [
+{
+  "Models": [
     {
       "id": 1,
       "name": "ChatGPT",
@@ -11,7 +12,8 @@
         "cons": "Lack of Emotional Intelligence, Potential for Bias, Security and Privacy Concerns",
         "popular": "true",
         "favorite": "false",
-        "link": "https://chat.openai.com/"
+        "link": "https://chat.openai.com/",
+        "market-share": 60.2
       }
     },
     {
@@ -26,7 +28,8 @@
         "cons": "Lack of Empathy, Limited Context Understanding, Initial Development Complexity",
         "popular": "true",
         "favorite": "false",
-        "link": "https://www.character.ai/"
+        "link": "https://www.character.ai/",
+        "market-share": 15.8
       }
     },
     {
@@ -41,7 +44,8 @@
         "cons": "Accuracy Concerns, Dependency Risk, Limited Context Understanding",
         "popular": "true",
         "favorite": "false",
-        "link": "https://www.quillbot.com/"
+        "link": "https://www.quillbot.com/",
+        "market-share": 4.7
       }
     },
     {
@@ -56,7 +60,8 @@
         "cons": "Limited Access, Learning Curve, Control Limitations",
         "popular": "false",
         "favorite": "false",
-        "link": "https://midjourney.com/"
+        "link": "https://midjourney.com/",
+        "market-share": 2.1
       }
     },
     {
@@ -71,7 +76,8 @@
         "cons": "Limited Support, Maintaining Code, Learning Curve",
         "popular": "false",
         "favorite": "false",
-        "link": "https://huggingface.co/"
+        "link": "https://huggingface.co/",
+        "market-share": 1.3
       }
     },
     {
@@ -86,7 +92,8 @@
         "cons": "Potential for Bias, Limited Real-World Interaction, Under Development",
         "popular": "false",
         "favorite": "false",
-        "link": "https://gemini.google.com/app"
+        "link": "https://gemini.google.com/app",
+        "market-share": 1
       }
     },
     {
@@ -101,7 +108,8 @@
         "cons": "Subscription Model, Learning Curve, Potential Bias",
         "popular": "false",
         "favorite": "false",
-        "link": "https://novelai.net/"
+        "link": "https://novelai.net/",
+        "market-share": 1
       }
     },
     {
@@ -116,7 +124,8 @@
         "cons": "Watermark on Free Exports, Limited for Complex Projects, Performance Limitations",
         "popular": "false",
         "favorite": "false",
-        "link": "https://capcut.en.softonic.com/"
+        "link": "https://capcut.en.softonic.com/",
+        "market-share": 0.8
       }
     },
     {
@@ -131,7 +140,8 @@
         "cons": "Limited Functionality, Privacy Concerns, Black Box Functionality",
         "popular": "false",
         "favorite": "false",
-        "link": "https://janitorai.com/"
+        "link": "https://janitorai.com/",
+        "market-share": 0.8
       }
     },
     {
@@ -146,7 +156,9 @@
         "cons": "Technical Knowledge Needed, Limited User Interface, Potential for Unethical Use",
         "popular": "false",
         "favorite": "false",
-        "link": "https://civitai.com/"
+        "link": "https://civitai.com/",
+        "market-share": 0.7
       }
     }
   ]
+}
